@@ -1,0 +1,103 @@
+.container {
+    background: black;
+    width: 1200px;
+    height: 800px;
+}
+.header {
+    width: 1200px;
+    height: 100px;
+    background: red;
+}
+.logo {
+    width: 20%;
+    height: 100px;
+    background: url("logo.png");
+    float: left;
+}
+.menu1 {
+    width: 80%;
+    height: 100px;
+    background: #326eca;
+    float: left;
+}
+.home {
+    width: 192px;
+    height: 100px;
+    text-align: center;
+    float: left;
+    font-size: 40px;
+}
+
+.about {
+    width: 192px;
+    height: 100px;
+    text-align: center;
+    float: left;
+    font-size: 40px;
+}
+
+.admission {
+    width: 192px;
+    height: 100px;
+    text-align: center;
+    float: left;
+    font-size: 40px;
+}
+
+.academic {
+    width: 192px;
+    height: 100px;
+    text-align: center;
+    float: left;
+    font-size: 40px;
+}
+
+.gallery {
+    width: 192px;
+    height: 100px;
+    text-align: center;
+    float: left;
+    font-size: 40px;
+}
+
+
+.banner {
+    width: 1200px;
+    height: 250px;
+    background: url("banner.jpg");
+    float: left;
+	
+}
+.table {
+    width: 1200px;
+    height: 350px;
+    background: #ffffff;
+    float: left;
+}
+.t1 {
+    width: 48%;
+    height: 100%;
+    background: white;
+    float: left;
+    font-size: 30px;
+    text-align: left;
+    color: black;
+}
+.t2 {
+    width: 48%;
+    height: 100%;
+    background: white;
+    float: right;
+    font-size: 30px;
+    text-align: left;
+    color: black;
+}
+.footer {
+    width: 1200px;
+    height: 100px;
+    background: blue;
+    float: left;
+	color: white;
+	font-size: 30px;
+	text-align: center;
+}
